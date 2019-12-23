@@ -12,6 +12,12 @@
       
       
       
+        <tags>
+            
+            <tag> Traveling </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -36,51 +42,6 @@
     
     
     <entry>
-      <title>你还有什么东西是不能量化为金钱的？</title>
-      <link href="/2019/10/18/%E4%BD%A0%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E4%B8%8D%E8%83%BD%E9%87%8F%E5%8C%96%E4%B8%BA%E9%87%91%E9%92%B1%E7%9A%84%EF%BC%9F/"/>
-      <url>/2019/10/18/%E4%BD%A0%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E4%B8%8D%E8%83%BD%E9%87%8F%E5%8C%96%E4%B8%BA%E9%87%91%E9%92%B1%E7%9A%84%EF%BC%9F/</url>
-      
-        <content type="html"><![CDATA[<p>有吗？</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>求职过程中遇到的金句</title>
-      <link href="/2019/09/09/%E6%B1%82%E8%81%8C%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%87%91%E5%8F%A5/"/>
-      <url>/2019/09/09/%E6%B1%82%E8%81%8C%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%87%91%E5%8F%A5/</url>
-      
-        <content type="html"><![CDATA[<p>金句1: 满足不了怎么办？</p><p>金句2: 你不要管！</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> -求职 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一些近况</title>
-      <link href="/2019/05/10/%E4%B8%80%E4%BA%9B%E8%BF%91%E5%86%B5/"/>
-      <url>/2019/05/10/%E4%B8%80%E4%BA%9B%E8%BF%91%E5%86%B5/</url>
-      
-        <content type="html"><![CDATA[<p>五一前被室友催促着做了份简历，投给了华为CBG，然后就莫名其妙地进入了求职状态。华为是个鸡贼的公司，“全年无休”地撩拨着快要毕业的博士生们。我身边所有投了简历的同学，都接到过电话或者叫到他们公司面试过。参加过他们 Open Day 的活动，HR 们连哄带骗，亦或装作坦诚和你讲奋斗，本质上 996 还是不可避免（btw，他们介绍设施条件的时候第一项就是医疗资源，玩笑话）。</p><p>很有趣的现象是，大家都关心加班的问题，但同时又是默许或者说默认了这样的现状，讨论着是这个部门加班少还是那个部门加班少。“领导”用“华为加班那肯定没BAT厉害”来转移注意力。他们给出的“华为一年招聘6k人，3k应届生，其中估计有300+博士”总给我一种他们在炼蛊的错觉，大量地吸入人才，然后用时间筛选出能力好、抗压、愿意加班的员工。</p><p>可以肯定的是，我并不是那种会愿意为工作付出一切的人，毕竟差点都把 Ph.D 的学业都当作工作对待了。我需要自己的生活，需要留出点时间想想自己想做的事。我的人生并不需要用工作去证明什么。和父母以及女友都交流过关于工作、加班的问题，他们了解了目前社会的状态后，并不建议我参与这样的“拿命换钱”的活动。尤其是女朋友那句“你给我老老实实六点半回家吃饭”，基本上可以用来掐灭我任何企图用“不快乐”、“不健康”换金钱的想法。</p><p>我还在思考“我要去从事什么”。“想要快乐的工作”在目前的语境下是一个不切实际，及其理想主义的想法。赚钱永远是一件困难的事情。“干什么”还没想好，可能还得想好久，也可能还得想一辈子吧。</p><p>最后，感叹一句：华为还是有好多好看的小姐姐的。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>我可能也在&#39;P月&#39;</title>
       <link href="/2019/04/18/%E6%88%91%E5%8F%AF%E8%83%BD%E4%B9%9F%E5%9C%A8&#39;P%E6%9C%88&#39;/"/>
       <url>/2019/04/18/%E6%88%91%E5%8F%AF%E8%83%BD%E4%B9%9F%E5%9C%A8&#39;P%E6%9C%88&#39;/</url>
@@ -91,7 +52,7 @@
       
         <tags>
             
-            <tag> 随想 </tag>
+            <tag> tech </tag>
             
         </tags>
       
@@ -110,26 +71,7 @@
       
         <tags>
             
-            <tag> 随想 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>RSSHub</title>
-      <link href="/2018/12/24/RSSHub/"/>
-      <url>/2018/12/24/RSSHub/</url>
-      
-        <content type="html"><![CDATA[<p>在 vps 上部署了 <a href="https://github.com/DIYgod/RSSHub" target="_blank" rel="noopener">RSSHub</a>，想用的话就用吧，链接如下 <a href="http://www.airhsm.top:1200" target="_blank" rel="noopener">http://www.airhsm.top:1200</a>, 正在尝试着把自己所有的信息流都整合到 RSS 上。</p><p>Update: 已下线</p><p>具体使用方法参考：<a href="https://docs.rsshub.app" target="_blank" rel="noopener">RSSHub 指南</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> vps </tag>
+            <tag> Thinking </tag>
             
         </tags>
       
@@ -186,7 +128,9 @@
       
         <tags>
             
-            <tag> games </tag>
+            <tag> Gaming </tag>
+            
+            <tag> Life </tag>
             
         </tags>
       
